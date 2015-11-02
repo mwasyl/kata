@@ -4,6 +4,8 @@ namespace Kata.StringCalculator.Tests
 {
     using NUnit.Framework;
 
+    //some changes to test commit
+
     [TestFixture]
     public class StringCalculatorTests
     {
